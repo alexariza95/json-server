@@ -1,9 +1,14 @@
 {
   "posts":[
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
+    },
+    {
+      "id": 1,
+      "title": "Second post!",
+      "content": "My second content!"
     }
   ],
   "comments" : [
@@ -11,6 +16,11 @@
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
+    },
+    {
+      "id": 1,
+      "content": "Amazing!",
+      "username": "super cool"
     }
   ]
 }
